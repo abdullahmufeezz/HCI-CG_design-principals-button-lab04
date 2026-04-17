@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This project demonstrates key **Human-Computer Interaction (HCI) principles** using a simple interactive button interface built with **HTML, CSS, and JavaScript**.
-
+I have made a change in HTML file where i thought i would make it more better according to the Human computer Interaction Rules.
 The system allows users to click a button up to **3 times**, while visually and functionally applying HCI concepts to improve usability and user experience.
 
 ---
